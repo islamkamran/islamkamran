@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- 👋  Hi, I’m Muhammad Islam Kamran @islamkamran  
+👀  I’m interested in Python and Cloud, Data and Security and recently worked with FastAPI Framework and find it very interesting  
+🌱  I’m currently working with Cloud Technologies and Python  -->
+<!-- 💞️  I’m looking to collaborate on Open Source Management Systems   -->
+<!-- - 🤔 I’m looking for help with Javascript Angular. -->
 
-<!--
-**islamkamran/islamkamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Muhammad Islam Kamran
+[![Linkedin Badge](https://img.shields.io/badge/-islamkamran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadislamkamran/)](https://www.linkedin.com/in/muhammadislamkamran/) 
+[![Gmail Badge](https://img.shields.io/badge/-m.islamkamran@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.islamkamran@gmail.com)](mailto:m.islamkamran@gmail.com)
 
-Here are some ideas to get you started:
+### Hi there 👋 Asalam-o-Alaikom
+I'm a Software Engineering graduate who is currently working as a full stack developer @gitwork. Recently, completed my MPhil in Computer Sciences and passionate about learning modern application development technologies along with Data Engineering.
+I'm a Software Engineering graduate who is currently working as a full stack developer @Indusre. I have my Bachelors degree in Computer Engineering and my Masters degree in Computer Science. I am passionate about learning modern application development technologies along with Cloud Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
+<!-- 🔭 I’m currently working on a Real Estate project which is about Model Coverage and Debugging Effectivness.<br /> -->
+🌱 I’m currently learning Django and its ecosystem.<br />
+🌱 I’m currently learning Angular and its ecosystem.<br />
+👯 I’m looking to collaborate on Data Engineering projects.<br />
+👯 I’m looking to collaborate on Web Development projects.<br />
+⚡ Programming Languages: Python, PHP, Java, Javascript.<br />
+⚡ Programming Languages: Python, Javascript, C++, Matlab.<br />
+🔭 Planning to Build a Financial Startup.<br/> 
+🔭 Planning to Build a Financial Startup.<br/> 
+</p>
+</p>
