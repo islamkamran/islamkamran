@@ -13,10 +13,10 @@ I'm a Software Engineering graduate who is currently working as a full stack dev
 
 
 <!-- 🔭 I’m currently working on a research project which is about Model Coverage and Debugging Effectivness.<br /> -->
-<!-- 🔭 I’m currently working on a Real Estate project which is about Model Coverage and Debugging Effectivness.<br /> -->
 🌱 I’m currently learning Angular and its ecosystem.<br />
 👯 I’m looking to collaborate on Web Development projects.<br />
 ⚡ Programming Languages: Python, Javascript, C++, Matlab.<br />
 🔭 Planning to Build a Financial Startup.<br/> 
 </p>
-</p>
+
+![Streak](https://github-readme-streak-stats-sandy.vercel.app/?user=islamkamran)
