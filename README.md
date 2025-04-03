@@ -16,7 +16,7 @@ I'm a Software Engineering graduate who is currently working as a full stack dev
 🌱 I’m currently learning Angular and its ecosystem.<br />
 👯 I’m looking to collaborate on Web Development projects.<br />
 ⚡ Programming Languages: Python, Javascript, C++, Matlab.<br />
-🧮 Frameworks: FastAPI, Angular <br />
+🧮 Frameworks: FastAPI, Angular. <br />
 🔭 Planning to Build a Financial Startup.<br/> 
 </p>
 
